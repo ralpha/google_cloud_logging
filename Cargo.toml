@@ -6,15 +6,7 @@ edition = "2021"
 description = "Google Cloud Structured Logging structures."
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-keywords = [
-    "google",
-    "cloud",
-    "logging",
-    "log",
-    "explorer",
-    "error",
-    "reporting",
-]
+keywords = ["google", "cloud", "logging", "log", "error"]
 categories = ["development-tools::debugging", "data-structures"]
 repository = "https://github.com/ralpha/google_cloud_logging"
 
