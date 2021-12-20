@@ -1,4 +1,6 @@
 # Google Cloud Logging
+[![Crates.io](https://img.shields.io/crates/v/google_cloud_logging)](https://crates.io/crates/google_cloud_logging/)
+[![API Docs](https://img.shields.io/badge/docs.rs-google_cloud_logging-blue)](https://docs.rs/google_cloud_logging/latest/)
 
 This crate contains structures for
 [Google Cloud Structured logging](https://cloud.google.com/logging/docs/structured-logging).
