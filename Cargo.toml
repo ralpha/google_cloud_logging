@@ -10,9 +10,10 @@ keywords = [
     "google",
     "cloud",
     "logging",
+    "log",
+    "explorer",
     "error",
-    "log exlorer",
-    "error reporting",
+    "reporting",
 ]
 categories = ["development-tools::debugging", "data-structures"]
 repository = "https://github.com/ralpha/google_cloud_logging"
