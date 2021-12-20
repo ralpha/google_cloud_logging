@@ -5,7 +5,7 @@ authors = ["Ralph Bisschops <ralph.bisschops.dev@gmail.com>"]
 edition = "2021"
 description = "Google Cloud Structured Logging structures."
 license = "MIT OR Apache-2.0"
-readme = "../README.md"
+readme = "README.md"
 keywords = [
     "google",
     "cloud",
