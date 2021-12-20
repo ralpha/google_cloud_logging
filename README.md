@@ -1,3 +1,5 @@
+# Google Cloud Logging
+
 This crate contains structures for
 [Google Cloud Structured logging](https://cloud.google.com/logging/docs/structured-logging).
 This allows for adding more metadata to log statements that will be interpreted by the
@@ -8,6 +10,8 @@ group them.
 
 [Cloud_Logging]: https://cloud.google.com/logging/
 [Error_Reporting]: https://cloud.google.com/error-reporting/.
+
+## Usage
 
 Here you can see a snippet of how you can use it in you logging library.
 ```rust
@@ -135,4 +139,5 @@ the same way. This can be done using a
 ## License
 
 The code in this project is licensed under the MIT or Apache 2.0 license.
+
 All contributions, code and documentation, to this project will be similarly licensed.
